@@ -7,7 +7,7 @@
 🔧 Currently building hands-on projects and learning Jenkins to level up my CI/CD skills.
 
 #### things i studied so far
-aws | linux | ansible |rhel | docker| CI/CD 
+aws | linux | ansible | rhel | docker | CI/CD 
 
 #### fun fact 
 - i spend most of my time in front of my lap doing troubleshooting and stuffs..
