@@ -4,7 +4,10 @@
 
 🌱 I currently learning **Jenkins**
 
-- If you want to see what I'm learning, my repos are pretty much my public notebook.
+### things i studied so far
+#aws #linux #ansible #rhel #CI/CD 
 
 #### fun fact 
-i got no social media
+- i got no social media
+- i watch tons of anime, movies, series and etc...
+
