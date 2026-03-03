@@ -1,7 +1,9 @@
 ## Hey there! 🕷️
 
 👱 I'm akif, a Cloud and DevOps student based in India.
+
 🎯 Looking for roles in Cloud Engineering, DevOps, and Cloud Operations.
+
 🔧 Currently building hands-on projects and learning Jenkins to level up my CI/CD skills.
 
 #### things i studied so far
