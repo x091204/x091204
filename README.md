@@ -4,10 +4,10 @@
 
 🌱 I currently learning **Jenkins**
 
-### things i studied so far
-#aws #linux #ansible #rhel #CI/CD 
+#### things i studied so far
+aws | linux | ansible |rhel | docker| CI/CD 
 
 #### fun fact 
-- i got no social media
+- i spend most of my time in front of my lap
 - i watch tons of anime, movies, series and etc...
 
