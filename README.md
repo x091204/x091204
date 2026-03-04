@@ -6,10 +6,10 @@
 
 🔧 Currently building hands-on projects and learning Jenkins to level up my CI/CD skills.
 
-#### things i studied so far
+#### things i studied so far:
 aws | linux | ansible | rhel | docker | CI/CD 
 
-#### fun fact 
+#### fun fact:
 - i spend most of my time in front of my lap doing troubleshooting and stuffs..
 - i watch tons of anime, movies, series and etc...
 
