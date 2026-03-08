@@ -4,7 +4,7 @@
 
 🎯 Looking for roles in Cloud Engineering, DevOps, and Cloud Operations.
 
-🔧 Starting to work with Docker to containerize applications and integrate it into CI/CD workflows.
+🔧 
 
 #### things i studied so far:
 aws | linux | ansible | rhel | docker | CI/CD | Jenkins
