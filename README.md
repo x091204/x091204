@@ -17,4 +17,4 @@ aws | linux | ansible | rhel | docker | CI/CD | Jenkins
 - i spend most of my time in front of my lap doing troubleshooting and stuffs..
 - i watch tons of anime, movies, series and etc...
 
-![GitHub Streak](https://streak-stats.demolab.com?user=x091204&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x091204&layout=compact&theme=dark)
