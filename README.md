@@ -6,9 +6,9 @@
 
 🔧 Currently Building: [DevOps-Task-API](https://github.com/x091204/DevOps-Task-API)
 
-    - Full CI/CD pipeline with Jenkins
-    - Dockerized Flask app with Docker Hub
-    - Adding: Trivy, MongoDB, Kubernetes, Terraform, AWS
+- Full CI/CD pipeline with Jenkins
+- Dockerized Flask app with Docker Hub
+- Adding: Trivy, MongoDB, Kubernetes, Terraform, AWS
 
 #### things i studied so far:
 aws | linux | ansible | rhel | docker | CI/CD | Jenkins
@@ -17,4 +17,4 @@ aws | linux | ansible | rhel | docker | CI/CD | Jenkins
 - i spend most of my time in front of my lap doing troubleshooting and stuffs..
 - i watch tons of anime, movies, series and etc...
 
-![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=x091204&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x091204&show_icons=true&theme=tokyonight)
