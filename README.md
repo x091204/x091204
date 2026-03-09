@@ -5,6 +5,7 @@
 🎯 Looking for roles in Cloud Engineering, DevOps, and Cloud Operations.
 
 🔧 Currently Building: [DevOps-Task-API](https://github.com/x091204/DevOps-Task-API)
+
     - Full CI/CD pipeline with Jenkins
     - Dockerized Flask app with Docker Hub
     - Adding: Trivy, MongoDB, Kubernetes, Terraform, AWS
