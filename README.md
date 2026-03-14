@@ -16,6 +16,3 @@ aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy
 #### fun fact:
 - i spend most of my time in front of my lap doing troubleshooting and stuffs..
 - i watch tons of anime, movies, series and etc...
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=x091204&theme=react-dark&hide_title=true)
