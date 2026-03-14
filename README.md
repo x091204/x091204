@@ -8,7 +8,7 @@
 
 - Full CI/CD pipeline with Jenkins
 - Dockerized Flask app with Docker Hub
-- Adding: Trivy, MongoDB, Kubernetes, Terraform, AWS
+- Adding: MongoDB, Kubernetes, Terraform, AWS
 
 #### things i studied so far:
 aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy
@@ -17,4 +17,4 @@ aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy
 - i spend most of my time in front of my lap doing troubleshooting and stuffs..
 - i watch tons of anime, movies, series and etc...
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=x091204&theme=react-dark&hide_title=true)
+
