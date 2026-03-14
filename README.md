@@ -11,7 +11,7 @@
 - Adding: Trivy, MongoDB, Kubernetes, Terraform, AWS
 
 #### things i studied so far:
-aws | linux | ansible | rhel | docker | CI/CD | Jenkins
+aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy
 
 #### fun fact:
 - i spend most of my time in front of my lap doing troubleshooting and stuffs..
