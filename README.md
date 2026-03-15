@@ -8,7 +8,7 @@
 
 - Full CI/CD pipeline with Jenkins
 - Dockerized Flask app with Docker Hub
-- Adding: MongoDB, Kubernetes, Terraform, AWS
+- Adding: Kubernetes, Terraform, AWS
 
 #### things i studied so far:
 aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy
