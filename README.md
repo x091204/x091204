@@ -4,14 +4,12 @@
 
 🎯 Looking for roles in Cloud Engineering, DevOps, and Cloud Operations.
 
-🔧 Currently Building: [DevOps-Task-API](https://github.com/x091204/DevOps-Task-API)
+🔧 Currently Building: three-tier-snake-game
 
-- Full CI/CD pipeline with Jenkins
-- Dockerized Flask app with Docker Hub
-- Adding: Kubernetes, Terraform, AWS
+- Adding: Kubernetes
 
 #### things i studied so far:
-aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy
+aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy | docker-compose |
 
 #### fun fact:
 - i spend most of my time in front of my lap doing troubleshooting and stuffs..
