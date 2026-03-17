@@ -8,7 +8,7 @@
 
 - Adding: Kubernetes
 
-#### things i studied so far:
+#### Tech Stack:
 aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy | docker-compose |
 
 #### fun fact:
