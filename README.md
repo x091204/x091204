@@ -7,7 +7,7 @@
 🔧 Currently studying **k8s**
 
 #### Tech Stack:
-aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy | docker-compose |
+aws | linux | ansible | rhel | docker | CI/CD | Jenkins | Trivy | docker-compose | python |
 
 #### fun fact:
 - i spend most of my time in front of my lap doing troubleshooting and stuffs..
