@@ -10,4 +10,4 @@
 aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins | Trivy | docker-compose | python |
 
 #### fun facts:
--- i do love one piece
+  - i do love one piece
