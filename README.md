@@ -7,7 +7,7 @@
 🔧 Currently studying **HELM**
 
 #### Tech Stack:
-aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins | Trivy | docker-compose | python |
+aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins | Trivy | docker-compose | python | Sonarqube | 
 
 #### fun facts:
   - i do love one piece
