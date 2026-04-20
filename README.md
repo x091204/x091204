@@ -4,7 +4,7 @@
 
 🎯 Looking for roles in Cloud Engineering, DevOps, and Cloud Operations.
 
-🔧 Currently studying **HELM**
+🔧 Currently studying **Terrform**
 
 #### Tech Stack:
 aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins | Trivy | docker-compose | python | Sonarqube | 
