@@ -4,10 +4,10 @@
 
 🎯 Looking for roles in Cloud Engineering, DevOps, and Cloud Operations.
 
-🔧 Currently studying **Terrform**
+🔧 Currently working on  **thiree-tier-snake-game**
 
 #### Tech Stack:
-aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins | Trivy | docker-compose | python | Sonarqube | 
+aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins | Trivy | docker-compose | python | Sonarqube | terraform
 
 #### fun facts:
   - i do love one piece
