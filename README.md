@@ -8,6 +8,7 @@
 
 #### Tech Stack:
 aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins |
+-
 Trivy | docker-compose | python | Sonarqube | terraform
 
 #### fun facts:
