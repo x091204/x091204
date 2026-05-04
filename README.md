@@ -7,7 +7,8 @@
 🔧 Currently working on  **thiree-tier-snake-game**
 
 #### Tech Stack:
-aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins | Trivy | docker-compose | python | Sonarqube | terraform
+aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins |
+Trivy | docker-compose | python | Sonarqube | terraform
 
 #### fun facts:
   - i do love one piece
