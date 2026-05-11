@@ -9,8 +9,8 @@
 #### Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,redhat,ubuntu,ansible,docker,kubernetes,jenkins,python,maven,terraform,bash,prometheus,grafana,git,github,nginx)](https://skillicons.dev)
 
-aws | linux | ansible | rhel | docker | kubernetes | CI/CD | Jenkins |
-Trivy | docker-compose | python | Sonarqube | terraform
+##### other tools
+Trivy | Sonarqube 
 
 #### fun facts:
   - i do love one piece
