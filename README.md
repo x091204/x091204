@@ -1,6 +1,8 @@
 ## Hey there! 🕷️
 
-👱 I'm akif, a Cloud and DevOps student based in India.
+
+
+👱 I'm akif, ``` Cloud and DevOps engineer ```
 
 🎯 Looking for roles in Cloud Engineering, DevOps, and Cloud Operations.
 
