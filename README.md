@@ -6,7 +6,7 @@
 
 🎯 Looking for roles in Cloud Engineering, DevOps, and Cloud Operations.
 
-🔧 Currently working on **[three-tier-snake-game](https://github.com/x091204/three-tier-snake-game)** (which contain end to end devops workflows and tools like terraform, kubernetes, docker, jenkins and etc..)
+🔧 currently working as system administrator trainee in IPSR
 
 
 
