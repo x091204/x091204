@@ -2,11 +2,11 @@
 
 
 
-👱 I'm akif, ``` Cloud and DevOps engineer ```
+👱 I'm akif, ``` System Engineer ```
 
-🎯 Looking for roles in Cloud Engineering, DevOps, and Cloud Operations.
+🎯 and also Cloud and Devops enthusiast 
 
-🔧 currently working as system administrator trainee in IPSR
+🔧 currently working as system engineer @ metclouds 
 
 
 
