@@ -6,7 +6,7 @@
 
 🎯 and also Cloud and Devops enthusiast 
 
-🔧 currently working as system engineer @ metclouds 
+🔧 currently working as system engineer
 
 
 
